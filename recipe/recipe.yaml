@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "1.1.0"
+  version: "1.2.0"
 
 package:
   name: vera-explain
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/v/vera-explain/vera_explain-${{ version }}.tar.gz
-  sha256: eb337b96fb666e1849590074c848a6076f98166cbcdbde075a5b091e672b0236
+  sha256: e28ceb5e1040470bf0f40d7612b656bb249a766479ebce737ae6e073af8ba50e
 
 build:
   number: 0
